@@ -1,9 +1,9 @@
-1. To run the project, please run the makefile using the command:
+1.To run the project, please run the makefile using the command:
 make -f makefile</br>
 </br>
 Note: We adjust the training.csv in preprocess.py, so the output result.csv has the training data size much smaller. We now have the matrix of 20 by 61188, instead of 12000 by 61190.
 However, it still takes about 15 minutes for withbeta.py and plotbeta.py 
-to generate the plot for Question 4.
+to generate the plot for Question 4.</br>
 </br>
 2. Answer files:</br>
 A series of csv files containing answers will be generated for different questions.

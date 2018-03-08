@@ -1,7 +1,7 @@
 /**********************************************************
 Naive Bayes Project README File
 Date:	10/19/2017 
-Authors:	Chih-Yu Shen	cyushen@unm.edu<\br>
+Authors:	Chih-Yu Shen	cyushen@unm.edu</br>
 		Haijin He 	heh@unm.edu
 		Christina Xuan Yu xyu@unm.edu
 /**********************************************************
